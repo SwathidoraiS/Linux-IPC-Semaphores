@@ -121,6 +121,7 @@ $ ./sem.o
 
 
 $ ipcs
+
 ![Screenshot 2024-05-01 205010](https://github.com/SwathidoraiS/Linux-IPC-Semaphores/assets/144870557/8cf09226-2a51-4e83-9fab-253b73a97b63)
 
 
